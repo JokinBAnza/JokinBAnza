@@ -14,7 +14,7 @@ estado.
 ### En lo que ando
 
 🍝 **[ReservasIlCapo](https://github.com/JokinBAnza/ReservasIlCapo)** — Sistema de reservas para el
-restaurante donde trabajo: web pública, panel de sala y mapa de mesas. **Laravel + Docker + MySQL.**
+restaurante donde trabajo: web pública y panel de sala. **Laravel + Docker + MySQL.**
 Lo estamos probando con clientes reales, que es donde se aprende lo que ningún tutorial cuenta.
 
 🏊 **[ReservasPiscinaIrun](https://github.com/JokinBAnza/ReservasPiscinaIrun)** — Bot que cada noche
